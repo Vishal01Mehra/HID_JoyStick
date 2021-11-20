@@ -4,8 +4,8 @@ Currently this code has 6 axis/Analog inputs and 2 buttons. With The help of the
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Library Used](#Library-Used)
 * [Features](#features)
+* [Library Used](#Library-Used)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -21,17 +21,16 @@ Currently this code has 6 axis/Analog inputs and 2 buttons. With The help of the
 - The project is only possible because of the Arduino Joystick Library by MHeironimus. 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
-## Library Used
-- https://github.com/MHeironimus/ArduinoJoystickLibrary
-
-
 ## Features
 The joystick has the following features:
 - Axis (default: 6, can be upto 8)
 - Buttons (default: 2, can be upto 32)
 - Less than 100ms latency (Tested on GNU/Linux Kernal 5.11.0-38-generic)
 - Almost plugh and play.
+
+
+## Library Used
+- https://github.com/MHeironimus/ArduinoJoystickLibrary
 
 
 ## Setup
