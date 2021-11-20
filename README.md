@@ -63,12 +63,11 @@ going through the liberary documentation is recommanded [Library](https://github
 ## Project Status
 - Project is: _in progress_,.
 
+## STL Files
+- Under Construction, Please wait :-)
 
 ## Acknowledgements
 - Huge thanks to [@MHeironimus](https://github.com/MHeironimus) for this great Library.
-
-## STL Files
-- Under Construction, Please wait :-)
 
 ## Contact
 - Created by [@Vishal01Mehra](https://github.com/Vishal01Mehra) - feel free to contact me!
