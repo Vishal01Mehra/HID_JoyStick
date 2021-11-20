@@ -8,6 +8,8 @@ int X1 = A0;
 int Y1 = A1;
 int X2 = A2;
 int Y2 = A3;
+int AN1 = A10;
+int AN2 = A9;
 
 float JoystickX1;
 float JoystickY1;
@@ -47,8 +49,8 @@ void loop() {
   JoystickX2 = analogRead(X2);
   JoystickY2 = analogRead(Y2);
 
-  Aux1 = analogRead(A10);
-  Aux2 = analogRead(A9);
+  Aux1 = analogRead(AN1);
+  Aux2 = analogRead(AN2);
 
   int button1 = digitalRead(Butt1);
   int button2 = digitalRead(Butt2);
